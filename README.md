@@ -1,5 +1,7 @@
 # realtime-chatting
-基于React，antd-mobile，Node JS，socket.io和MongoDB的实时聊天应用
+基于React，antd-mobile，axios，Node JS，socket.io和MongoDB等的实时聊天应用
+前端使用了：react框架，nanoid, antd-mobile, js-cookie, react-router-dom, socket.io-client, axios等
+后端使用了：nodejs, mongodb, mongoose, socket.io, express框架，blueimp-md5等
 
 使用creat-react-app创建，目前优化空间比较大,，比如可以较少请求数据库的次数等，待后续优化
 
