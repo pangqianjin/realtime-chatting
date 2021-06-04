@@ -1,7 +1,7 @@
 # realtime-chatting
 基于React，antd-mobile，Node JS，socket.io和MongoDB的实时聊天应用
 
-使用creat-react-app创建，目前优化空间比较大
+使用creat-react-app创建，目前优化空间比较大,，比如可以较少请求数据库的次数等，待后续优化
 
 # 如何启动
 >yarn start //或者npm start
@@ -27,11 +27,14 @@ node app.js
 ![image](https://user-images.githubusercontent.com/49555245/120787860-606aa200-c562-11eb-9845-76e303b9ed0b.png)
 ![image](https://user-images.githubusercontent.com/49555245/120787969-7ed09d80-c562-11eb-8738-fa973349fff0.png)
 
-# 发送消息
-![image](https://user-images.githubusercontent.com/49555245/120789141-bb7ba500-c520-11eb-9e61-1d496dd31722.png)
+# 发送消息（左一：qianjin，左二：tom）
+![image](https://user-images.githubusercontent.com/49555245/120791676-133cff00-c567-11eb-8011-53df66bb37fb.png)
+![image](https://user-images.githubusercontent.com/49555245/120791935-63b45c80-c567-11eb-99a0-20bae7686b88.png)
 
 
 # 点击消息查看详情
+![image](https://user-images.githubusercontent.com/49555245/120791988-775fc300-c567-11eb-98db-4dea960ff245.png)
+![image](https://user-images.githubusercontent.com/49555245/120792014-80509480-c567-11eb-95b9-a2b928284e36.png)
 
 
 # 修改信息页面
