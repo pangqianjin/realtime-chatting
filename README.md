@@ -8,6 +8,11 @@
 使用creat-react-app创建，目前优化空间比较大,，比如可以较少请求数据库的次数等，待后续优化
 
 # 如何启动
+
+先安装包
+>yarn install 
+
+// 启动前端
 >yarn start //或者npm start
 
 // 启动后端
